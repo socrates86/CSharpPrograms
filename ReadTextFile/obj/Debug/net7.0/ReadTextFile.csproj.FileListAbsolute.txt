@@ -1,0 +1,14 @@
+C:\Projects\C#Assignments\ReadTextFile\bin\Debug\net7.0\ReadTextFile.exe
+C:\Projects\C#Assignments\ReadTextFile\bin\Debug\net7.0\ReadTextFile.deps.json
+C:\Projects\C#Assignments\ReadTextFile\bin\Debug\net7.0\ReadTextFile.runtimeconfig.json
+C:\Projects\C#Assignments\ReadTextFile\bin\Debug\net7.0\ReadTextFile.dll
+C:\Projects\C#Assignments\ReadTextFile\bin\Debug\net7.0\ReadTextFile.pdb
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ReadTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ReadTextFile.AssemblyInfoInputs.cache
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ReadTextFile.AssemblyInfo.cs
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ReadTextFile.dll
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\refint\ReadTextFile.dll
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ReadTextFile.pdb
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ReadTextFile.genruntimeconfig.cache
+C:\Projects\C#Assignments\ReadTextFile\obj\Debug\net7.0\ref\ReadTextFile.dll
